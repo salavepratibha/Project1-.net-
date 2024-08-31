@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FinalProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|c:\\users\\salav\\onedrive\\desktop\\finalproject\\finalproject\\finalproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\views\\admindashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\admindashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\views\\shared\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\shared\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\models\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\finalproject\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520D5444-E73E-4F4B-86E3-92B844AF974D}|FinalProject\\FinalProject.csproj|c:\\users\\salav\\onedrive\\desktop\\finalproject\\finalproject\\finalproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalProject",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeToolTip": "FinalProject\\FinalProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T15:31:38.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:55:02.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:31:51.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginClass.cs",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Models\\LoginClass.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\LoginClass.cs",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Models\\LoginClass.cs",
+              "RelativeToolTip": "FinalProject\\Models\\LoginClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:33:39.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "FinalProject\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-25T09:21:48.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Admin\\edit.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Admin\\edit.cshtml",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Admin\\edit.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Admin\\edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:41:43.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:54:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Shared\\_LayoutPage.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Shared\\_LayoutPage.cshtml",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Shared\\_LayoutPage.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Shared\\_LayoutPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:51:48.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:40:32.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:27:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Web.config",
+              "RelativeDocumentMoniker": "FinalProject\\Web.config",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Web.config",
+              "RelativeToolTip": "FinalProject\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-25T09:09:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:15:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\AdminDashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\AdminDashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Views\\AdminDashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\AdminDashboard\\Dashboard.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:35:50.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:16:24.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "FinalProject\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vw8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:31:06.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\salav\\OneDrive\\Desktop\\FinalProject\\FinalProject\\FinalProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:31:26.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+﻿@model List<FinalProject.Models.User>
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+
+
+<div class="container">
+    <h4 style="text-align:center; font-size:30px; margin:40px 0 30px 0;">Manage Users</h4>
+    <form class="form-inline" action="/AdminDashboard/Dashboard">
+        <!-- <div class="col-md-5" style="display:flex; align-items:center; margin-left:10px;">
+         <input type="search" style="margin-right:15px;" class="form-control form-control-lg" id="search" name="search" />
+         <button type="submit" class="btn btn-primary" style="width:80px;">Go</button>
+     </div> -->
+    </form>
+    <div class="row">
+        <div class="col-12">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col">UserName</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Mobile</th>
+                        <th scope="col">Profile Picture</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.UserName</td>
+                            <td>@item.Email</td>
+                            <td>@item.Mobile</td>
+                            <td><img src="@item.Uimg" width="70" /></td>
+                            <td>
+                                <a href="/admin/Details/@item.Id"><button type="button" class="btn btn-primary"><i class="fa fa-fw fa-eye"></i></button></a>
+                                <a href="/admin/edit/@item.Id"><button type="button" class="btn btn-success"><i class="fa fa-fw fa-edit"></i></button></a>
+                                <a href="/admin/delete/@item.Id"><button type="button" class="btn btn-danger"><i class="fa fa-fw fa-trash"></i></button></a>
+                                @Html.ActionLink(item.isActive ? "Deactivate" : "Activate", "UserActivateStatus", new { id = item.Id, isActive = !item.isActive })
+
+
+
+                            </td>
+                        </tr>
+                    }
+
+
+
+                </tbody>
+            </table>
+            @{
+                int prevPageNo = ViewBag.PageNo - 1;
+                if (prevPageNo <= 0)
+                {
+                    prevPageNo = 1;
+                }
+                int NextPageNo = ViewBag.PageNo + 1;
+                if (NextPageNo > ViewBag.NoOfPages)
+                {
+                    NextPageNo = ViewBag.NoOfPages;
+                }
+            }
+            <ul class="pagination justify-content-center">
+                @for (int i = 0; i < ViewBag.NoOfPages; i++)
+                {
+                    if ((i + 1) == ViewBag.PageNo)
+                    {
+                        <li class="page-item active">
+                            <a class="page-link" href="/admindashboard/dashboardadmin/index?PageNo=@(i+1)">@(i+1)</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="/admindashboard/dashboard?PageNo=@(i+1)">@(i+1)</a>
+                        </li>
+                    }
+
+                }
+
+            </ul>
+        </div>
+    </div>
+</div>
+

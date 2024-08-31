@@ -1,0 +1,59 @@
+﻿@model FinalProject.Models.User
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Details</h2>
+<form action="~/admin/delete/@Model.Id" method="post">
+    <section class="vh-200" style="background-color: #f4f5f7;">
+        <div class="container py-5 h-150">
+            <div class="row d-flex justify-content-center align-items-center h-200">
+                <div class="col col-lg-6 mb-4 mb-lg-0">
+                    <div class="card mb-3" style="border-radius: .5rem;width:950px;margin-left:-150px">
+                        <div class="row g-0">
+                            <div class="col-md-4 gradient-custom text-center text-white"
+                                 style="border-top-left-radius: .5rem; border-bottom-left-radius: .5rem;">
+                                <img src="@Model.Uimg"
+                                     alt="Avatar" class="img-fluid my-5" style="height: 250px; width:250px;" />
+
+                                <i class="far fa-edit mb-5"></i>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body p-4">
+                                    <h6>User Contact</h6>
+                                    <hr class="mt-0 mb-4">
+                                    <div class="row pt-1">
+                                        <div class="col-6 mb-3">
+                                            <h6>Email</h6>
+                                            <p class="text-muted">@Model.Email</p>
+                                        </div>
+                                        <div class="col-6 mb-3">
+                                            <h6>Phone</h6>
+                                            <p class="text-muted">@Model.Mobile</p>
+                                        </div>
+                                    </div>
+                                    <h6>Personal Details</h6>
+                                    <hr class="mt-0 mb-4">
+                                    <div class="row pt-1">
+                                        <div class="col-6 mb-3">
+                                            <h6>User Name</h6>
+                                            <p class="text-muted">@Model.UserName</p>
+                                        </div>
+                                       <!-- <div class="col-6 mb-3">
+                                            <h6>Gender</h6>
+                                           @* <p class="text-muted">@Model.Address</p>*@
+                                        </div>-->
+                                    </div>
+                                    <button class="btn btn-primary" type="submit">Delete</button>
+                                    <a class="btn btn-danger" href="~/AdminDashboard/Dashboard">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</form>
+
